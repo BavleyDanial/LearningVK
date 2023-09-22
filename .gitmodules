@@ -1,9 +1,3 @@
-[submodule "LearningVK/Vendor/GLFW"]
-	path = LearningVK/Vendor/GLFW
-	url = https://github.com/BavleyDanial/glfw.git
 [submodule "EngineVK/Vendor/glm"]
 	path = EngineVK/Vendor/glm
 	url = https://github.com/BavleyDanial/glm.git
-[submodule "EngineVK/vendor/GLFW"]
-	path = EngineVK/vendor/GLFW
-	url = https://github.com/BavleyDanial/glfw.git
