@@ -1,3 +1,6 @@
 [submodule "EngineVK/Vendor/glm"]
 	path = EngineVK/Vendor/glm
 	url = https://github.com/BavleyDanial/glm.git
+[submodule "EngineVK/Vendor/GLFW"]
+	path = EngineVK/Vendor/GLFW
+	url = https://github.com/BavleyDanial/glfw.git
